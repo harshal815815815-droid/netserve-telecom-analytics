@@ -1,0 +1,38 @@
+{
+    "plan_predictions": {
+        "Monday": "Family Plan",
+        "Tuesday": "Fiber Basic - 499/mo",
+        "Wednesday": "Fiber Basic - 499/mo",
+        "Thursday": "\u20b9299 Prepaid",
+        "Friday": "\u20b9399 Prepaid",
+        "Saturday": "Business Pro - 1499/mo",
+        "Sunday": "\u20b9149 Prepaid"
+    },
+    "plan_model_accuracy": 2.4,
+    "payment_predictions": {
+        "Business Pro - 1499/mo": "Paid",
+        "DTH Basic - 299/mo": "Paid",
+        "DTH Premium - 599/mo": "Paid",
+        "Family Plan": "Paid",
+        "Fiber Basic - 499/mo": "Paid",
+        "Fiber Elite - 1199/mo": "Paid",
+        "Fiber Lite - 299/mo": "Paid",
+        "Fiber Pro - 799/mo": "Paid",
+        "Premium Plan": "Paid",
+        "\u20b9149 Prepaid": "Paid",
+        "\u20b9299 Prepaid": "Paid",
+        "\u20b9399 Prepaid": "Pay Later"
+    },
+    "payment_model_accuracy": 56.1,
+    "forecast_avg_daily": 2.1,
+    "forecast_period": "30 days from 2026-03-23",
+    "generated_at": "2026-03-23 14:56:10",
+    "total_bookings": 202,
+    "top_plan": "DTH Basic - 299/mo",
+    "top_plan_count": 37,
+    "payment_distribution": {
+        "Paid": 94,
+        "Pay Later": 59,
+        "Pending": 49
+    }
+}
