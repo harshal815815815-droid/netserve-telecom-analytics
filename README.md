@@ -303,7 +303,7 @@ This project is built for educational and portfolio purposes.
 **Harshal Patil**  
 📧 harshal815815815@gmail.com  
 🔗 [GitHub](https://github.com/yourusername)
-
+🔗 [linkedin] (https://www.linkedin.com/in/harshal-patil-567769338?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 *Built with ❤️ using PHP, MySQL, Razorpay, Chart.js, and Python ML*
