@@ -8,7 +8,8 @@
 
 | Homepage | Admin Dashboard | Payment Gateway |
 |---|---|---|
-| *(Add screenshot)* | *(Add screenshot)* | *(Add screenshot)* |
+|<img width="1727" height="908" alt="Screenshot 2026-04-14 115242" src="https://github.com/user-attachments/assets/4cc13903-07d4-4caf-a4d2-83b218f08249" />
+ | *(Add screenshot)* | *(Add screenshot)* |
 
 | Analytics Dashboard | Plan Management | Payment Success |
 |---|---|---|
