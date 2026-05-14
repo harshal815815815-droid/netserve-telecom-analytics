@@ -9,11 +9,17 @@
 | Homepage | Admin Dashboard | Payment Gateway |
 |---|---|---|
 |<img width="1727" height="908" alt="Screenshot 2026-04-14 115242" src="https://github.com/user-attachments/assets/4cc13903-07d4-4caf-a4d2-83b218f08249" />
- | *(Add screenshot)* | *(Add screenshot)* |
+ |<img width="1905" height="907" alt="image" src="https://github.com/user-attachments/assets/ca86e753-fbc3-4fa6-bb1d-c1623f3a9904" />
+ |<img width="441" height="739" alt="image" src="https://github.com/user-attachments/assets/e060918b-f71b-4afe-850c-150b4171039f" />
+|
 
 | Analytics Dashboard | Plan Management | Payment Success |
-|---|---|---|
-| *(Add screenshot)* | *(Add screenshot)* | *(Add screenshot)* |
+|---|---|---|---|
+| <img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/8d38605c-abdd-4e7f-bdb5-7b80e9d0c871" />
+|<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/55e8e4d9-6318-4328-b8c0-6581cf297d9b" />
+|<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/8e17940b-c178-4479-aed7-20070051990b" />
+|<img width="491" height="894" alt="image" src="https://github.com/user-attachments/assets/54d2de97-e1ba-4ddc-83e4-6713eb8e444e" />
+|
 
 > **Tip:** Take screenshots and drop them into an `assets/images/screenshots/` folder, then update the table above.
 
